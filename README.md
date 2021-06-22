@@ -7,7 +7,7 @@
 ## Sobre mim :rocket: :
 -  Engenheiro Ambiental e Sanitarista
 -  Cientista de dados
--  Apaixonado pr Machine Learning, Redes Neurais, Programação e Análises de dados
+-  Apaixonado por Machine Learning, Redes Neurais, Programação e Análises de dados
 ## About me :rocket: :
 - I have knowledge in steps of resolution data science problem, from insights with exploratory data analysis to publishing models in productions.
 - I developed insight and regression projects
@@ -26,4 +26,4 @@
 ## Contact :mailbox_with_no_mail::
 
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lujanrr/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lujanrr/) 
- [<img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](lujanrr@outlook.com)  [<img alt="Twitter" src="https://img.shields.io/badge/LujanRR-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/Lujan_RR)
+ [<img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:lujanrr@outlook.com" />](mailto:lujanrr@outlook.com)  [<img alt="Twitter" src="https://img.shields.io/badge/LujanRR-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/Lujan_RR)
