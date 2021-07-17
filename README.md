@@ -16,7 +16,7 @@ The details of each solution are described in the projects below.
 
 **Analytical Tools:**
 
-**Data Collect and Storage:** SQL, MySQL.
+**Data Collect and Storage:** SQL, MySQL, PostgreSQL.
 
 **Data Processing and Analysis:** Python.
 
