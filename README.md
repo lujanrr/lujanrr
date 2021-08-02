@@ -43,7 +43,7 @@ Building a Machine Learning Model to sales  is a common and essential use of mac
 In this project, I developed a Machine Learning model able to forescat sales with **Mean Absolute Percentage error accuracy(MAPE): 0.14 +/- 0.02**.
 The performance of this model would increase **revenue of R$5 millions** according to the company's business model described in the problem definition.
 
-## Data Anaysis - Insight Projets
+## Data Analysis - Insight Projets
 
 ### [House Rocket - Insights Project]( https://github.com/lujanrr/lujanrr-house-rocket)
 Knowing how to analyze and explore data is critical knowledge for a data scientist.
