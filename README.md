@@ -52,7 +52,7 @@ Learning to rank (LTR) is a class of algorithmic techniques that apply supervise
 
 In this project, i developed a model able to predict the probability of a customer purchasing vehicle insurance . In this way, ranking customers from the most likely to purchase to the least likely.
 
-With 20,000 calls made to a new set of 127.000 customers, the perfomance of this model with **Recall at 20000:  0.81** would increase **annual revenue of R$2.4 millions** according to the company's business model described in the problem definition.
+With 20.000 calls made to a new set of 127.000 customers, the perfomance of this model with **Recall at 20000:  0.81** would increase **annual revenue of R$2.4 millions** according to the company's business model described in the problem definition.
 
 ## Data Analysis - Insight Projets
 
