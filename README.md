@@ -3,6 +3,9 @@ The main objective of this data science personal project portfolio is to demonst
 
 ![eu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgKcyZBqOoymupym6xZgfVpR5QwiPDxj_kco7XzcXALqHcT3n1DKyJFS-7q73DXWrHDGM&usqp=CAU)
 
+<sub>*Kidou Keiji Jiban*</sub>
+
+
 # Lujan Rafael Rezende
 <sub>*Data Scientist*</sub>
 
