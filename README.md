@@ -55,6 +55,7 @@ By making 20.000 calls the perfomance of this model with **Recall at 20000:  0.8
 
 ### [House Rocket - Insights Project]( https://github.com/lujanrr/lujanrr-house-rocket)
 Knowing how to analyze and explore data is critical knowledge for a data scientist.
+
 In this project, through exploration, analysis and data visualization tools, I created insights for the company and in the end recommended the purchase of 20 properties resulting in **revenue of R$9 millions** according to the company's business model described in the problem definition.
 
 
