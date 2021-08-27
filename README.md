@@ -9,7 +9,7 @@ The main objective of this data science personal project portfolio is to demonst
 # Lujan Rafael Rezende
 <sub>*Data Scientist*</sub>
 
-I have studied Machine Learning since 2018 in environmental engineering college, in my final paper i used a neural network to detect semantical segmentation of landslides scars.
+I have been studying  Machine Learning since 2018 in environmental engineering college, in my final paper i used a neural network to detect semantical segmentation of landslides scars.
 
 I have mastery of all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
 
