@@ -42,7 +42,7 @@ The details of each solution are described in the projects below.
 ## Data Science Projects:
 
 ### [Rossmann - Sales Forescast Project]( https://github.com/lujanrr/lujanrr-rossmann-sales)
-Building a Machine Learning Model to sales  is a common and essential use of machine learning .  
+Building a Machine Learning Model to sales  is a common and essential use in data science.  
 
 In this project, i developed a Machine Learning model able to forescat sales with **Mean Absolute Percentage error accuracy(MAPE): 0.14 +/- 0.02**.
 The performance of this model would increase **revenue of R$5 millions** according to the company's business model described in the problem definition.
